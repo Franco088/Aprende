@@ -19,6 +19,7 @@ public class EjercicioA2 {
 				 }
 				 
 				 scanner.close();
+				 //2º commit
 		 }
 	
 	}
